@@ -1,0 +1,24 @@
+{
+  "name": "bountylab-skills",
+  "owner": {
+    "name": "Bounty Lab",
+    "email": "support@bountylab.io"
+  },
+  "metadata": {
+    "description": "Official Bounty Lab plugins for Claude Code — developer intelligence, sourcing, and recruiting tools",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "bountylab",
+      "source": "./plugins/bountylab",
+      "description": "Search developers, repos, professional profiles, get emails, and DevRank scores using the Bounty Lab developer intelligence API",
+      "version": "0.1.0",
+      "author": {
+        "name": "Bounty Lab"
+      },
+      "keywords": ["bountylab", "recruiting", "developer-search", "github", "sourcing"],
+      "category": "developer-intelligence"
+    }
+  ]
+}

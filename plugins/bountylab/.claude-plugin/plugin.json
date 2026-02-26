@@ -1,0 +1,12 @@
+{
+  "name": "bountylab",
+  "version": "0.1.0",
+  "description": "Search developers, repos, professional profiles, get emails, and DevRank scores using the Bounty Lab developer intelligence API",
+  "author": {
+    "name": "Bounty Lab",
+    "url": "https://bountylab.io"
+  },
+  "repository": "https://github.com/bountylaboratories/skills",
+  "license": "MIT",
+  "keywords": ["bountylab", "recruiting", "developer-search", "github", "sourcing"]
+}
